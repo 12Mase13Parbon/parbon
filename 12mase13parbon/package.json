@@ -1,0 +1,25 @@
+{
+  "name": "12mase13parbon",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^1.4.0",
+    "bootstrap": "^4.1.2",
+    "google-map-react": "^1.0.6",
+    "jquery": "^3.3.1",
+    "react": "^16.4.1",
+    "react-bar-chart": "^0.1.2",
+    "react-dom": "^16.4.1",
+    "react-google-map": "^3.1.1",
+    "react-google-maps-loader": "^4.2.3",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "react-svg-bar-chart": "^1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
